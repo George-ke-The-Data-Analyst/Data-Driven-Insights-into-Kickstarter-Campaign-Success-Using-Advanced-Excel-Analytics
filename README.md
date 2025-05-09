@@ -36,8 +36,8 @@ Firstly, the sub-categories with 100% success rates are: classical music, docume
    * Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web.
  
    * A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%.
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
-  
+  <img width="807" alt="SubcategoryStats" src="https://github.com/user-attachments/assets/df78e70a-ead5-46b4-b7ac-e775a8f441fa" />
+
 ## Seasonality:
 * Analysis shows the highest success rate is in May at 61% across all categories while December has the lowest success rate at 44%. Notably, February and April also have comparative success rates at 60% each.
 
@@ -45,7 +45,8 @@ Firstly, the sub-categories with 100% success rates are: classical music, docume
 
 * The gap between successful and failed closes in December (actually intersecting), and failures surpass successes for the 1st time.
 
- ![Subcategory Stats](Images/LaunchDateOutcomes.PNG)
+ <img width="973" alt="LaunchDateOutcomes" src="https://github.com/user-attachments/assets/037bbdeb-2fe7-4051-868e-e9e3aefa8cc4" />
+
  
 ## Limiations
 
@@ -64,4 +65,6 @@ Firstly, the sub-categories with 100% success rates are: classical music, docume
 
 * It would also be interesting to discover what happened to those companies/campaigns after KickStarter. Success in one arena does not mean overall continued or lasting success.
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  ![GoalOutcomes](https://github.com/user-attachments/assets/f958da49-b37c-4966-9788-6e642a3a66c9)
+
+
